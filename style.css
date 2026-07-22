@@ -93,3 +93,21 @@ input[type="range"]{
     font-weight: bold;
 }
 
+/* ------------ Array ------------*/
+
+#arrayContainer{
+    height: 420px;
+    border: 2px solid #ddd;
+    background: white;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 8px;
+    padding: 20px;
+    margin-bottom: 35px;
+}
+
+.bar{
+    
+}
