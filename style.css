@@ -46,3 +46,21 @@ button{
 button:hover{
      background: #16395b;
 }
+
+button:disabled{
+    background: gray;
+    cursor: not-allowed;
+}
+
+.speedBox{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+}
+
+input[type="range"]{
+    width: 180px;
+}
+
+/* ------------ Stats -----------
